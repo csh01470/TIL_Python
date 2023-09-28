@@ -1,0 +1,7 @@
+#File
+*.DS_Store
+
+#Directory
+/css
+/data
+/markdown
